@@ -1,0 +1,20 @@
+.imgs img{
+    position: relative;
+    height: 90vh;
+    width: 100%;
+    opacity: 0.5;
+    /* z-index: -1;S */
+    
+}
+.conta{
+    position: absolute;
+    top: 27%;
+    right: 35%;
+  
+    height: 240px;
+}
+ .btn-danger{
+    position: absolute;
+    left: 80%;
+    top: 172px;
+ }
